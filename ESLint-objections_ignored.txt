@@ -1,0 +1,39 @@
+S:\_code-along_\vue2-bs4-webdev\please-instroduce-yourself\src\router\index.js
+    Warning:Warning:line (5)Unterminated statement
+S:\_code-along_\vue2-bs4-webdev\please-instroduce-yourself\src\main.js
+    Error:Error:line (11)ESLint: Expected indentation of 0 spaces but found 1. (indent)
+    Warning:Warning:line (15)Unterminated statement
+    Warning:Warning:line (16)Unterminated statement
+    Warning:Warning:line (17)Unterminated statement
+    Warning:Warning:line (20)Unterminated statement
+    Warning:Warning:line (26)Unterminated statement
+S:\_code-along_\vue2-bs4-webdev\please-instroduce-yourself\src\utils\utils.js
+    Warning:Warning:line (26)Unterminated statement
+    Warning:Warning:line (30)Unused export
+S:\_code-along_\vue2-bs4-webdev\please-instroduce-yourself\src\App.vue
+    Error:Error:line (28)ESLint: Elements in iteration expect to have 'v-bind:key' directives. (vue/require-v-for-key)
+    Error:Error:line (43)ESLint: Elements in iteration expect to have 'v-bind:key' directives. (vue/require-v-for-key)
+    Error:Error:line (44)ESLint: Elements in iteration expect to have 'v-bind:key' directives. (vue/require-v-for-key)
+    Error:Error:line (54)ESLint: Elements in iteration expect to have 'v-bind:key' directives. (vue/require-v-for-key)
+    Error:Error:line (72)ESLint: Elements in iteration expect to have 'v-bind:key' directives. (vue/require-v-for-key)
+    Warning:Warning:line (118)Unterminated statement
+    Warning:Warning:line (121)Unterminated statement
+    Warning:Warning:line (122)Unterminated statement
+    Warning:Warning:line (123)Unterminated statement
+    Warning:Warning:line (130)Unterminated statement
+    Warning:Warning:line (135)Unterminated statement
+    Warning:Warning:line (140)Unterminated statement
+    Warning:Warning:line (141)Unterminated statement
+    Warning:Warning:line (148)Unterminated statement
+    Warning:Warning:line (149)Unterminated statement
+    Warning:Warning:line (152)Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check
+    Warning:Warning:line (152)Unterminated statement
+    Warning:Warning:line (153)Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check
+    Warning:Warning:line (153)Unterminated statement
+    Warning:Warning:line (161)Unterminated statement
+    Error:Error:line (173)ESLint: Unexpected trailing comma. (comma-dangle)
+    Warning:Warning:line (189)Unterminated statement
+    Warning:Warning:line (193)Unterminated statement
+    Warning:Warning:line (194)Unterminated statement
+    Warning:Warning:line (195)Unterminated statement
+    Warning:Warning:line (196)Unterminated statement
